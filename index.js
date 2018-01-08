@@ -13,3 +13,7 @@ function subtract(a,b) {
 function divide(a,b) {
   return parseFloat(a)/parseFloat(b)
 }
+
+function inc(a) {
+  a = parseFloat(a) + 1
+}
