@@ -17,3 +17,7 @@ function divide(a,b) {
 function inc(a) {
   a = parseFloat(a) + 1
 }
+
+function dec(a) {
+  a = parseFloat(a) - 1
+}
